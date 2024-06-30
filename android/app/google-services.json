@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "235353604058",
+    "project_id": "quiz-app-f9333",
+    "storage_bucket": "quiz-app-f9333.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235353604058:android:d0988599e6ada44c6b8ae3",
+        "android_client_info": {
+          "package_name": "com.example.bitblue_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIMYa4yHbvWjUdjXbp3DQmu7aO6h8UDnI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
